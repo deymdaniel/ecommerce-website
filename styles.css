@@ -1,0 +1,23 @@
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 128px;
+}
+@media (max-width: 844px) {
+  h1 {
+    font-size: 64px;
+  }
+}
+
+img {
+  object-fit: cover;
+  object-position: 25% 25%;
+}
+
+.desc {
+  font-size: x-large;
+  font-weight: 200;
+}
+
+h2 {
+  font-weight: 900;
+}
