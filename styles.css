@@ -43,3 +43,11 @@ h2 {
   background-color: #f0f8ea;
   font-weight: 600;
 }
+
+.gallery-body {
+  background-color: #212922;
+}
+
+.carousel-inner {
+  border: 5px solid #f0f8ea;
+}
