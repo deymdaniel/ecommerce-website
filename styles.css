@@ -7,7 +7,9 @@ h1 {
     font-size: 64px;
   }
 }
-
+.navbar-brand {
+  font-family: "Montserrat", sans-serif;
+}
 img {
   object-fit: cover;
   object-position: 25% 25%;
@@ -20,4 +22,24 @@ img {
 
 h2 {
   font-weight: 900;
+  font-size: 48px;
+}
+
+.footer {
+  color: white;
+  background-color: #7b904b;
+}
+
+.info-newsletter h4 {
+  font-family: "Montserrat", sans-serif;
+}
+
+i {
+  color: white;
+}
+
+.home-info {
+  font-size: larger;
+  background-color: #f0f8ea;
+  font-weight: 600;
 }
